@@ -1,0 +1,58 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+}
+
+h1,
+h2 {
+  color: orange;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: purple
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: orange;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+p {
+  color: darkolivegreen;
+  font-size: 20px;
+  text-align: left;
+}
+
+.background {
+  height: 100%;
+  width: 100%;
+  background-image: url('https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/23/1465483432-tumblr-mbv04nbvai1qg6rkio1-500.gif');
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+}
+
+.profile {
+  margin-top: auto;
+  margin-bottom: auto;
+  border-radius: 9999px;
+  height: 50px;
+  width: 50px;
+}
